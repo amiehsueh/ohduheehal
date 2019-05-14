@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://emoomaezae.mena.events/sitemap.xml
